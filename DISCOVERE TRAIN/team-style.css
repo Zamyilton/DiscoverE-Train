@@ -1,0 +1,16 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    text-decoration: none;
+    list-style-type: none;
+}
+
+#T-text{
+    margin-top: 150px !important;
+}
+
+.image{
+    width: 300px;
+    height: 300px;
+    border-radius: 150px;
+}

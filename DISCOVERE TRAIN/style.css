@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.landing-section {
+  background-image: url("img/Banner1.jpeg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  min-height: 100vh;
+}
+
+.landing-text {
+  padding-top: 300px;
+  font-weight: bolder;
+  text-align: center;
+  color: white;
+  font-size: 65px;
+}
+
+.paragraph {
+  font-weight: light;
+  text-align: center;
+  color: white;
+}
