@@ -1,0 +1,29 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    text-decoration: none;
+    list-style-type: none;
+}
+
+#T-text{
+    margin-top: 150px !important;
+}
+
+.image{
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+}
+.me{
+    margin-top: 10%;
+    justify-content: space-between;
+}
+
+@media(max-width:720px){
+    .image{
+        width: 100px;
+        height: 100px;
+        border-radius: 50px;
+        display:grid;
+    }
+}

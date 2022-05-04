@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+/* 
+.about {
+  /* width: 100%; */
+  /* background-color: white; */
+  /* height: 100vh; */
+  /* display: flex !important; */
+  /* margin: 100px; */
+/* } */
+
+.about-wrapper {
+  /* display: flex !important; */
+  /* justify-content: space-evenly; */
+}
+.text-text{
+  font-weight: bolder!important;
+}
